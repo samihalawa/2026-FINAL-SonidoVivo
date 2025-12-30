@@ -49,6 +49,22 @@ const audioFiles = [
     file: '/audio/Música-Meditación-Libre.mp3',
     duration: '10:00',
     color: '#96A87C'
+  },
+  {
+    id: 7,
+    title: 'Música Meditación Energía Positiva',
+    artist: 'Internet Archive',
+    file: '/audio/30-Min-Positive-Energy-Meditation.mp3',
+    duration: '30:02',
+    color: '#D4A574'
+  },
+  {
+    id: 8,
+    title: 'Flauta Meditativa',
+    artist: 'Internet Archive',
+    file: '/audio/30-Min-Flute-Meditation.mp3',
+    duration: '30:40',
+    color: '#8FAADC'
   }
 ]
 
