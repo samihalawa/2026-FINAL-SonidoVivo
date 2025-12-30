@@ -65,6 +65,30 @@ const audioFiles = [
     file: '/audio/30-Min-Flute-Meditation.mp3',
     duration: '30:40',
     color: '#8FAADC'
+  },
+  {
+    id: 9,
+    title: 'Energía Positiva - Meditación Profunda',
+    artist: 'AI Variation (0.9x)',
+    file: '/audio/Positive-Energy-Slow.mp3',
+    duration: '33:22',
+    color: '#C9A55C'
+  },
+  {
+    id: 10,
+    title: 'Meditación Ambiente Reverberante',
+    artist: 'AI Variation (Reverb)',
+    file: '/audio/Meditation-Ambient-Reverb.mp3',
+    duration: '10:01',
+    color: '#6B9B7F'
+  },
+  {
+    id: 11,
+    title: 'Flauta Meditación Activa',
+    artist: 'AI Variation (1.1x)',
+    file: '/audio/Flute-Active-Meditation.mp3',
+    duration: '27:52',
+    color: '#7AA8C7'
   }
 ]
 
