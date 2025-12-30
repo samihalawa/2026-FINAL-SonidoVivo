@@ -17,8 +17,9 @@ deploy.zip
 dist.zip
 *.zip
 
-# Large audio files (use CDN or LFS for production)
+# Large audio files (deployed via Netlify, not tracked in git due to GitHub 100MB limit)
 public/audio/*.mp3
+public/audio/*.wav
 
 # Editor directories and files
 .vscode/*
@@ -30,3 +31,6 @@ public/audio/*.mp3
 *.njsproj
 *.sln
 *.sw?
+
+# Local Netlify folder
+.netlify

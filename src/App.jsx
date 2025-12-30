@@ -15,8 +15,24 @@ const audioFiles = [
     title: 'Cañón del Río Lobos',
     artist: 'Eva Julián',
     file: '/audio/Canon-Rio-Lobos.mp3',
-    duration: '36:12',
+    duration: '1:24:28',
     color: '#7B8B6F'
+  },
+  {
+    id: 3,
+    title: 'Templo María Magdalena',
+    artist: 'Eva Julián',
+    file: '/audio/Templo_Maria_Magdalena_MP3.mp3',
+    duration: '58:26',
+    color: '#A47B8B'
+  },
+  {
+    id: 4,
+    title: 'Cañón Río Lobos',
+    artist: 'Eva Julián',
+    file: '/audio/Cañon_Rio_Lobos_MP3.mp3',
+    duration: '1:24:28',
+    color: '#8BA490'
   }
 ]
 
