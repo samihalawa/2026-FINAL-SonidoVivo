@@ -33,6 +33,22 @@ const audioFiles = [
     file: '/audio/Cañon_Rio_Lobos_MP3.mp3',
     duration: '1:24:28',
     color: '#8BA490'
+  },
+  {
+    id: 5,
+    title: 'Agua Relajante Meditación',
+    artist: 'Orange Free Sounds',
+    file: '/audio/Agua-Relajante-Meditación.mp3',
+    duration: '3:52',
+    color: '#5DB8C4'
+  },
+  {
+    id: 6,
+    title: 'Música Meditación Libre',
+    artist: 'The Miracle Sound',
+    file: '/audio/Música-Meditación-Libre.mp3',
+    duration: '10:00',
+    color: '#96A87C'
   }
 ]
 
